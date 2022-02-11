@@ -5,7 +5,6 @@ import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-import com.baseclass.selenium.SeleniumSimpleWebDriverManager;
 import com.relevantcodes.extentreports.LogStatus;
 
 public class PageGoogle {
